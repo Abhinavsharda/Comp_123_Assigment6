@@ -114,7 +114,7 @@
             // 
             this.BMILabel.AutoSize = true;
             this.BMILabel.BackColor = System.Drawing.Color.Teal;
-            this.BMILabel.Location = new System.Drawing.Point(87, 393);
+            this.BMILabel.Location = new System.Drawing.Point(80, 393);
             this.BMILabel.Name = "BMILabel";
             this.BMILabel.Size = new System.Drawing.Size(65, 32);
             this.BMILabel.TabIndex = 7;
