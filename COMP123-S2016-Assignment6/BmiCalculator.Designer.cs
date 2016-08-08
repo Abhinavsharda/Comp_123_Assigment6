@@ -46,7 +46,7 @@
             // 
             this.UnitsLabel.AutoSize = true;
             this.UnitsLabel.Font = new System.Drawing.Font("Lucida Sans", 27.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.UnitsLabel.Location = new System.Drawing.Point(185, 68);
+            this.UnitsLabel.Location = new System.Drawing.Point(171, 68);
             this.UnitsLabel.Name = "UnitsLabel";
             this.UnitsLabel.Size = new System.Drawing.Size(210, 42);
             this.UnitsLabel.TabIndex = 0;
